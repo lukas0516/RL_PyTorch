@@ -6,7 +6,7 @@ Simulation Result:
 
 ## Dependencies
 gym==0.18.3  
-numpy==1.21.2  
+numpy==1.21.6  
 pytorch==1.8.1  
 tensorboard==2.5.0
 
