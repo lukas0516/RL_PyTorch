@@ -2,7 +2,7 @@
 This is an implementation of Q-learning, and it is used to solve the CliffWalking problem.
 Simulation Result:
 
-<img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=500/>
+<img src="https://github.com/lukas0516/RL_PyTorch/blob/main/1.%20Q-learning/result.svg" width=500/>
 
 ## Dependencies
 gym==0.18.3  
