@@ -1,5 +1,7 @@
 # Q-learning
-This is an implementation of Q-learning, and it is used to solve the CliffWalking problem.
+**This is an implementation of Q-learning, and it is used to solve the CliffWalking problem.**
+<img src="https://www.gymlibrary.dev/_images/cliff_walking.gif" width="500" div align=center/>
+
 Simulation Result:
 
 <img src="https://github.com/lukas0516/RL_PyTorch/blob/main/1.%20Q-learning/result.svg" width=500/>
