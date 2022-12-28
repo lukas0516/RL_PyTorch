@@ -13,6 +13,7 @@ The board is a 4 $\times$ 12 matrix, with (using NumPy matrix indexing):
 If the agent steps on the cliff, it returns to the start. An episode terminates when the agent reaches the goal.
 
 <div align=center><img src="https://www.gymlibrary.dev/_images/cliff_walking.gif"></div>  
+<div align=center><img src="https://miro.medium.com/max/1100/1*52MwrYKyzQXuKZ88rqu70A.webp"></div>  
 
 
 ### Actions
@@ -42,3 +43,7 @@ tensorboard==2.5.0
 Just run **'python main.py'**.   
 ### Visualize the training curve
 You can use the tensorboard to visualize the training curve. 
+
+## Reference
+* https://www.gymlibrary.dev/environments/toy_text/cliff_walking/
+* https://towardsdatascience.com/reinforcement-learning-cliff-walking-implementation-e40ce98418d4
