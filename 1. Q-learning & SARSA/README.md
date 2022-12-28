@@ -31,7 +31,7 @@ Each time step incurs -1 reward, and stepping into the cliff incurs -100 reward.
 
 ---
 ## Simulation Result
-<img src="https://github.com/lukas0516/RL_PyTorch/blob/main/1.%20Q-learning/result.svg" width=500/>
+<img src="https://github.com/lukas0516/RL_PyTorch/blob/main/1.%20Q-learning%20%26%20SARSA/result.svg" width=500/>
 
 ## Dependencies
 gym==0.18.3  
