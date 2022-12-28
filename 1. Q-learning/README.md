@@ -15,13 +15,6 @@ If the agent steps on the cliff, it returns to the start. An episode terminates 
 <div align=center><img src="https://www.gymlibrary.dev/_images/cliff_walking.gif"></div>  
 
 
-|Name  | Value |
-|------       |------       |
-|Action space | Discrete(4) |
-|Observation space | Discrete(44) | 
-|Import|gym.make("cliffWalking-v0") |
-
-
 ### Actions
 There are 4 discrete deterministic actions:
 * 0: move up
